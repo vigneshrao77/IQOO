@@ -37,7 +37,7 @@ export const About = () => {
     },
     {
       q: "Who can become a mentor on Project Saathi?",
-      a: "Industry professionals, software engineers, data scientists, academic educators, and corporate partners (such as JPMorgan Chase volunteers) can sign up as mentors to review student project submissions and guide students through technical escalations."
+      a: "Industry professionals, software engineers, data scientists, academic educators, and corporate partners (such as our corporate volunteers) can sign up as mentors to review student project submissions and guide students through technical escalations."
     },
     {
       q: "How are student safety and workspace isolation maintained?",
@@ -84,7 +84,7 @@ export const About = () => {
     {
       name: "Vikram Malhotra",
       role: "Industry Volunteer Lead",
-      org: "JPMorgan Chase Tech Team",
+      org: "Tech Volunteer Team",
       img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80"
     }
   ];
@@ -238,13 +238,13 @@ export const About = () => {
         >
           <div>
             <div style={{ fontSize: '0.85rem', fontWeight: 700, color: '#86EFAC', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '12px' }}>
-              JPMorgan Chase Code for Good 2026
+              Project Saathi Initiative
             </div>
             <h2 style={{ fontSize: '2.2rem', fontWeight: 800, lineHeight: 1.25, marginBottom: '20px' }}>
               Built to Equalize Opportunities for Young Women
             </h2>
             <p style={{ fontSize: '1.02rem', lineHeight: 1.65, color: '#E2E8F0', marginBottom: '24px' }}>
-              Barabari Collective partnered with software engineers during JPMorgan Chase Code for Good 2026 to create Project Saathi. Our goal is simple: remove technical barriers, provide structured safety nets, and guarantee that no student gets left behind due to lack of guidance.
+              Barabari Collective partnered with software engineers to create Project Saathi. Our goal is simple: remove technical barriers, provide structured safety nets, and guarantee that no student gets left behind due to lack of guidance.
             </p>
             <div style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -414,7 +414,7 @@ export const About = () => {
         </div>
 
         <div style={{ fontSize: '0.78rem', color: 'var(--color-text-muted)' }}>
-          JPMorgan Chase Code for Good 2026
+          Project Saathi
         </div>
       </footer>
     </div>

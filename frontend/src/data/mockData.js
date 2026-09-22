@@ -42,7 +42,7 @@ export const mockStudent = {
   assignedMentor: {
     name: "Farhan Mansuri",
     title: "Senior Lead Architect",
-    company: "JPMorgan Chase & Co.",
+    company: "Partner Org",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=250&q=80",
     nextSync: "Tomorrow, 5:30 PM IST"
   },

@@ -417,7 +417,7 @@ export const Impact = () => {
         </div>
 
         <div style={{ fontSize: '0.78rem', color: 'var(--color-text-muted)' }}>
-          JPMorgan Chase Code for Good 2026
+          Project Saathi
         </div>
       </footer>
     </div>

@@ -6,7 +6,7 @@
 
 <p align="center">
   An AI mentor that knows each student's client project, and hands a question to the human mentor only when it should.<br>
-  Built for <a href="https://barabaricollective.org/">Barabari Collective</a> · Team 21 · JPMorganChase Code for Good 2026, Hyderabad · Challenge 2 (Mentoring)
+  Built for <a href="https://barabaricollective.org/">Barabari Collective</a>
 </p>
 
 ---
