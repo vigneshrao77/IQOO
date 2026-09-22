@@ -1,0 +1,25 @@
+from app.models.tables import (
+    Assignment,
+    Chunk,
+    KBEntry,
+    MetricEvent,
+    Project,
+    SharedAnswer,
+    StudentScore,
+    Task,
+    Ticket,
+    User,
+)
+
+__all__ = [
+    "Assignment",
+    "Chunk",
+    "KBEntry",
+    "MetricEvent",
+    "Project",
+    "SharedAnswer",
+    "StudentScore",
+    "Task",
+    "Ticket",
+    "User",
+]
